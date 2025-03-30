@@ -31,19 +31,3 @@ cast balance '<wallet address>' --rpc-url http://157.230.195.21:8547/
 # Check the current block number
 cast block-number --rpc-url http://157.230.195.21:8547/
 ```
-
-## Project Overview
-
-"Caffeinated and Code" is our team's implementation of an Arbitrum rollup, focusing on demonstrating liveness verification as part of the core rollup requirements.
-
-## Setup Instructions
-
-To interact with our rollup, you'll need:
-
-1. [Foundry](https://book.getfoundry.sh/getting-started/installation) installed for using the `cast` commands
-2. Access to the Ethereum Sepolia network
-3. A wallet with Sepolia ETH for testing transactions
-
-## Contact
-
-For any questions or issues, please open an issue in this repository or contact the team members.
